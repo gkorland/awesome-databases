@@ -20,3 +20,4 @@ A curated list of awesome databases
 * [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
 * [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB document graph NoSQL dbms (database)
 * [ArangoDB](https://github.com/triAGENS/ArangoDB) - ArangoDB is a multi-purpose, open-source database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript/Ruby extensions. Use ACID transaction if you require them. Scale horizontally and vertically with a few mouse clicks.
+* [FalkorDB](https://github.com/falkordb/falkordb) - A low-latency, and scalable graph database optimized for real-time analytics and AI-driven applications
